@@ -40,11 +40,11 @@
 </div>
 <br></br>
 <p align="center">
-  <a href="https://doxil.dev">
+  <a href="https://devvyy.xyz">
     <img alt="Discord Link" title="Discord Link" target="_blank" src="https://custom-icon-badges.herokuapp.com/badge/-Doxil.Dev-6088d2?style=for-the-badge&logoColor=white&logo=website"/>
   </a>
-   <a href="https://discord.gg/uGfvdZhjD8">
-    <img alt="Website" title="Website Link" target="_blank" src="https://custom-icon-badges.herokuapp.com/badge/-Doxil%20Discord-2962FF?style=for-the-badge&logoColor=white&logo=discord-link"/>
+   <a href="https://discord.gg/z2tHq8Rav4">
+    <img alt="Website" title="Website Link" target="_blank" src="https://custom-icon-badges.herokuapp.com/badge/-My%20Discord-2962FF?style=for-the-badge&logoColor=white&logo=discord-link"/>
   </a>
 </p>
 
