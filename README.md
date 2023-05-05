@@ -3,7 +3,7 @@
   <img href="https://discord.com/users/992171799536218142" src="https://cdn.discordapp.com/emojis/732718140949266453.gif?quality=lossless" width="30" height="30">
 </h3>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
+
 
 
 <div align="center">
@@ -37,7 +37,7 @@
 
 <div align="center">
   <picture>
-    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/664171400193638401?theme=dark&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." onclick="return false;">
+    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/664171400193638401?theme=dark&animated=true&hideDiscrim=false&idleMessage=Probably%20doing%20something%20else..." onclick="return false;">
   </picture> 
 </div>
 <br></br>
