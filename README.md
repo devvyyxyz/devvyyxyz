@@ -9,7 +9,7 @@
 <!--- https://readme-typing-svg.herokuapp.com --->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=32&duration=2500&color=ea544e&center=true&vCenter=true&width=500&lines=Software+Engineer;UI+Designer;UX+Creator)](https://git.io/typing-svg)
  
-![](https://komarev.com/ghpvc/?username=Trixzyy&color=007bff&label=Profile+Views&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Devvyyxyz)
  
 </div>
 
