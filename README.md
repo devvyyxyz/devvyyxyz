@@ -7,7 +7,7 @@
 <div align="center">
 
 <!--- https://readme-typing-svg.herokuapp.com --->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=32&duration=2500&color=ea544e&center=true&vCenter=true&width=500&lines=Software+Engineer;UI+Designer;UX+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cyber+security+student;Software+designer;Discord+developer)](https://git.io/typing-svg)
  
 ![](https://komarev.com/ghpvc/?username=Devvyyxyz)
  
@@ -61,3 +61,4 @@
 ![](https://github.com/Trixzyy/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
+loving credit to Trixzy for profile template 
