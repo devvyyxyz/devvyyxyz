@@ -35,7 +35,7 @@
 
 <div align="center">
   <picture>
-    <img align="center" src="https://lanyard.cnrad.dev/api/664171400193638401?hideBadges=false" onclick="return false;">
+    <img align="center" src="https://lanyard.cnrad.dev/api/664171400193638401?hideBadges=false?idleMessage=:"Hello why are you here"" onclick="return false;">
   </picture> 
 </div>
 <br></br>
