@@ -23,7 +23,7 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,py,css,html,java,js,godot,heroku,aws,cloudflare,firebase,gcp,codepen,bash,c,cs,cpp&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,py,css,html,java,js,godot,heroku,aws,cloudflare,firebase,gcp,codepen,bash,c,cs,cpp&theme=dark&perline=7)](https://skillicons.dev)
 
 </div>
 
@@ -35,7 +35,7 @@
 
 <div align="center">
   <picture>
-    <img align="center" src="https://lanyard.cnrad.dev/api/992171799536218142?hideBadges=true" onclick="return false;">
+    <img align="center" src="https://lanyard.cnrad.dev/api/664171400193638401?hideBadges=false" onclick="return false;">
   </picture> 
 </div>
 <br></br>
