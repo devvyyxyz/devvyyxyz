@@ -4,8 +4,6 @@
 </h3>
 
 
-
-
 <div align="center">
 
 <!--- https://readme-typing-svg.herokuapp.com --->
