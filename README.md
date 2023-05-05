@@ -7,7 +7,7 @@
 <div align="center">
 
 <!--- https://readme-typing-svg.herokuapp.com --->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cyber+security+student;Software+designer;Discord+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7722E&center=true&vCenter=true&width=435&lines=Cyber+security+student;Software+designer;Discord+developer)](https://git.io/typing-svg)
  
 ![](https://komarev.com/ghpvc/?username=Devvyyxyz)
  
