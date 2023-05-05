@@ -57,8 +57,8 @@
 <!-- https://github.com/jstrieb/github-stats -->
 <div align="center">
   
-![](https://github.com/Trixzyy/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/Trixzyy/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/Devvyyxyz/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/Devvyyxyz/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 loving credit to Trixzy for profile template 
