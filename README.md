@@ -23,7 +23,7 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=figma,nodejs,js,jquery,html,css,nginx,cloudflare,bots,powershell,bash,github,git,heroku,py,vscode,mongodb,raspberrypi,ae,xd&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,py,css,html,java,js,godot,heroku,aws,cloudflare,firebase,gcp,codepen,bash,c,cs,cpp&theme=dark&perline=6)](https://skillicons.dev)
 
 </div>
 
