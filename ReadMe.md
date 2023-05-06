@@ -87,8 +87,10 @@
 <!-- https://github.com/jstrieb/github-stats -->
 <div align="center">
   
+![](https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&theme=dark&background=000000) 
+  
 ![](https://github.com/Devvyyxyz/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&theme=dark&background=000000)
+  
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
