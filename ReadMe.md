@@ -70,25 +70,25 @@
 </div>
 <br></br>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="discordapp.com/users/664171400193638401">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://twitter.com/@devvyyxyz">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://instagram.com">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/sevvyyxyz">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://linked.in">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://replit.com/@devvyyxyz">
     <img src="https://skillicons.dev/icons?i=replit" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://stackoverflow.com">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
 </p>
