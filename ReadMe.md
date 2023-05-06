@@ -22,12 +22,8 @@
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
-  <h3 align="center">Programs<h3>
-  [![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,&theme=dark&perline=7)](https://skillicons.dev)
-  <h3 align="center">Web development<h3>
-  [![My Skills](https://skillicons.dev/icons?i=py,css,html,js&theme=dark&perline=7)](https://skillicons.dev)
-  <h3 align="center">languges<h3>
-  [![My Skills](https://skillicons.dev/icons?i=py,css,html,java,js,godot,heroku,aws,cloudflare,firebase,gcp,codepen,bash,c,cs,cpp&theme=dark&perline=7)](https://skillicons.dev)
+  <h3>Programs</h3>
+    [![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 
