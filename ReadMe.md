@@ -96,7 +96,7 @@
 <br></br>
 
 <h2 align="center">
-  🔗 Connect With Me
+  💖 My favorite GitHub repositories
 </h2> 
 <p align="center">
     <a href="https://github.com/devvyyxyz/noodle-bot">
