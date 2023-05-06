@@ -21,10 +21,31 @@
 
 
 <!-- https://github.com/tandpfun/skill-icons -->
-<div align="center">
-  <h3>Programs</h3>
-    [![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,&theme=dark&perline=10)](https://skillicons.dev)
 
+<h3 align="center">Web development</h3>
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,cloudflare,gcp,mongodb,bootstrap,wordpress)](https://skillicons.dev)
+  
+</div>
+<h3 align="center">Languges</h3>
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp)](https://skillicons.dev)
+  
+</div>
+<h3 align="center">Programs and tools</h3>
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,xd,blender,visualstudio,godot,unity,unreal,idea,replit,figma)](https://skillicons.dev)
+  
+</div>
+</div>
+<h3 align="center">Other</h3>
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=codepen,discord,bots,github,heroku)](https://skillicons.dev)
+  
 </div>
 
 <br></br>
