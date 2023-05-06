@@ -82,7 +82,7 @@
   <a href="https://github.com/devvyyxyz">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linked.in">
+  <a href="https://www.linkedin.com/in/khyle-mitchell-5a97a1275/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://replit.com/@devvyyxyz">
