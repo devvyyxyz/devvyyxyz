@@ -70,7 +70,7 @@
 </div>
 <br></br>
 <p align="center">
-  <a href="discordapp.com/users/664171400193638401">
+  <a href="https://discordapp.com/users/664171400193638401">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
   <a href="https://twitter.com/@devvyyxyz">
@@ -79,7 +79,7 @@
   <a href="https://instagram.com">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://github.com/sevvyyxyz">
+  <a href="https://github.com/devvyyxyz">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://linked.in">
