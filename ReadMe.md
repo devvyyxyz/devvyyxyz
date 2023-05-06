@@ -31,7 +31,7 @@
 <h3 align="center">Languges</h3>
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,py,java,html,css,js)](https://skillicons.dev)
   
 </div>
 <h3 align="center">Programs and tools</h3>
