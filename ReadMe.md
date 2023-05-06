@@ -96,17 +96,33 @@
 <br></br>
 
 <h2 align="center">
+  🔗 Connect With Me
+</h2> 
+<p align="center">
+    <a href="https://github.com/devvyyxyz/noodle-bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=noodle-bot&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
+    </a>
+    <a href="https://github.com/devvyyxyz/noodle-bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=noodle-bot&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
+    </a>
+    <a href="https://github.com/devvyyxyz/noodle-bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=noodle-bot&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
+    </a>
+</p>
+
+
+<h2 align="center">
   📈 Github Stats
 </h2>
 
 <!-- https://github.com/jstrieb/github-stats -->
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&theme=dark&background=000000) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=006BD6&ring=006BD6&stroke=FFFFFFFF) 
   
-![](https://github.com/Devvyyxyz/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=devvyyxyz&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6&hide_border=true/)
   
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6&hide_border=true/)
 
 </div>
 <div align="center">
