@@ -103,7 +103,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=noodle-bot&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
     </a>
     <a href="https://github.com/devvyyxyz/python-qrcode-maker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=/python-qrcode-maker&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=python-qrcode-maker&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
     </a>
     <a href="https://github.com/devvyyxyz/python-password-generator">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=python-password-generator&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
