@@ -1,6 +1,6 @@
 <h3 align="center">
   Hi, I'm Devvyy!
-  <img href="https://discord.com/users/992171799536218142" src="https://cdn.discordapp.com/emojis/732718140949266453.gif?quality=lossless" width="30" height="30">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 
 
@@ -88,7 +88,8 @@
 <div align="center">
   
 ![](https://github.com/Devvyyxyz/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/Devvyyxyz/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&theme=dark&background=000000)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 loving credit to Trixzy for profile template 
