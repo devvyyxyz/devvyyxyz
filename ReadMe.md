@@ -70,11 +70,14 @@
 </div>
 <br></br>
 <p align="center">
-  <a href="https://devvyy.xyz">
-    <img alt="Discord Link" title="Discord Link" target="_blank" src="https://custom-icon-badges.herokuapp.com/badge/-devvyy.xyz-6088d2?style=for-the-badge&logoColor=white&logo=website"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
-   <a href="https://discord.gg/z2tHq8Rav4">
-    <img alt="Website" title="Website Link" target="_blank" src="https://custom-icon-badges.herokuapp.com/badge/-My%20Discord-2962FF?style=for-the-badge&logoColor=white&logo=discord-link"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
 
