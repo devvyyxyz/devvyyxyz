@@ -109,4 +109,6 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-<p align="center">loving credit to [Trixzy](https://github.com/trixzyy) for profile template</p>
+<div align="center">
+  loving credit to <a href="https://github.com/trixzyy">Trixzy</a> for profile template
+</div>
