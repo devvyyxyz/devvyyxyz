@@ -120,9 +120,9 @@
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=006BD6&ring=006BD6&stroke=FFFFFFFF) 
   
-![](https://github-readme-stats.vercel.app/api?username=devvyyxyz&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6&hide_border=true/)
+![](https://github-readme-stats.vercel.app/api?username=devvyyxyz&hide_border=true&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6&hide_border=true/)
   
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6&hide_border=true/)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&hide_border=true&layout=compact&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6&hide_border=true/)
 
 </div>
 <div align="center">
