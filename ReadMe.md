@@ -25,7 +25,7 @@
 <h3 align="center">Web development</h3>
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,cloudflare,gcp,mongodb,bootstrap,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,cloudflare,gcp,mongodb,bootstrap,wordpress&perline=3)](https://skillicons.dev)
   
 </div>
 
@@ -33,7 +33,7 @@
 <h3 align="center">Languges</h3>
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,py,java,html,css,js,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,py,java,html,css,js,md&perline=5)](https://skillicons.dev)
   
 </div>
 
@@ -42,7 +42,7 @@
   <summary align="center"><h3 align="center">Programs and tools</h3></summary>
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,xd,pr,blender,visualstudio,godot,unity,unreal,idea,replit,figma,codepen,heroku,github,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,xd,pr,blender,visualstudio,godot,unity,unreal,idea,replit,figma,codepen,heroku,github,stackoverflow&perline=5)](https://skillicons.dev)
   
 </div>
 </details>
