@@ -33,7 +33,7 @@
 <h3 align="center">Languges</h3>
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,py,java,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,py,java,html,css,js,md)](https://skillicons.dev)
   
 </div>
 
@@ -71,13 +71,25 @@
 <br></br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=replit" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
 </p>
 
