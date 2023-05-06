@@ -37,7 +37,7 @@
 <h3 align="center">Programs and tools</h3>
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,xd,blender,visualstudio,godot,unity,unreal,idea,replit,figma,codepen,heroku,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,xd,pr,blender,visualstudio,godot,unity,unreal,idea,replit,figma,codepen,heroku,github,stackoverflow)](https://skillicons.dev)
   
 </div>
 </div>
