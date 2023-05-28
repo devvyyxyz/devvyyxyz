@@ -67,6 +67,7 @@
   <picture>
     <img align="center" src="https://lanyard-profile-readme.vercel.app/api/664171400193638401?theme=dark&animated=true&hideDiscrim=false&idleMessage=Probably%20doing%20something%20else..." onclick="return false;">
   </picture> 
+  <p>Hey, Bonjour, 你好 i’m Devvyy, A software and cyber security developer! I’m always trying to create more and better things pushing the limits to what i can do as-well as making useful products or services for you!*</p>
 </div>
 <br></br>
 <p align="center">
