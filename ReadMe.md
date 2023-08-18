@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hi, I'm Devvyy!
+  Hi, I'm Devvyyxyz!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 
@@ -10,6 +10,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=76E63BFF&center=true&vCenter=true&width=435&lines=Discord+bot+developer;Cyber+security+student;Software+designer;Web+designer)](https://github.com/devvyyxyz)
  
 ![](https://komarev.com/ghpvc/?username=Devvyyxyz)
+![GitHub followers](https://img.shields.io/github/followers/devvyyxyz)
+![GitHub User's stars](https://img.shields.io/github/stars/devvyyxyz)
+
+
  
 </div>
 
