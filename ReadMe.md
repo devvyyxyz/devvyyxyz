@@ -7,7 +7,7 @@
 <div align="center">
 
 <!--- https://readme-typing-svg.herokuapp.com --->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7722E&center=true&vCenter=true&width=435&lines=Cyber+security+student;Software+designer;Discord+developer)](https://github.com/devvyyxyz)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=76E63BFF&center=true&vCenter=true&width=435&lines=Discord+bot+developer;Cyber+security+student;Software+designer;Web+designer)](https://github.com/devvyyxyz)
  
 ![](https://komarev.com/ghpvc/?username=Devvyyxyz)
  
@@ -64,10 +64,11 @@
 </h2> 
 
 <div align="center">
+  <p>Hey, Bonjour, 你好 i’m Devvyy, A software and cyber security developer! I’m always trying to create more and better things pushing the limits to what i can do as-well as making useful products or services for you!*</p>
   <picture>
     <img align="center" src="https://lanyard-profile-readme.vercel.app/api/664171400193638401?theme=dark&animated=true&hideDiscrim=false&idleMessage=Probably%20doing%20something%20else..." onclick="return false;">
   </picture> 
-  <p>Hey, Bonjour, 你好 i’m Devvyy, A software and cyber security developer! I’m always trying to create more and better things pushing the limits to what i can do as-well as making useful products or services for you!*</p>
+  
 </div>
 <br></br>
 <p align="center">
