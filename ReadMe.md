@@ -76,10 +76,10 @@
 </h1> 
 <p align="center">
     <a href="https://github.com/devvyyxyz/noodle-bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=noodle-bot&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=noodle-bot&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true&show_owner=true" />
     </a>
     <a href="https://github.com/devvyyxyz/modrinth-text-packs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=modrinth-text-packs&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=modrinth-text-packs&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true&show_owner=true" />
     </a>
 </p>
 
@@ -93,9 +93,11 @@
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=006BD6&ring=006BD6&stroke=FFFFFFFF) 
   
-![](https://github-readme-stats.vercel.app/api?username=devvyyxyz&hide_border=true&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6&hide_border=true/)
+![](https://github-readme-stats.vercel.app/api?username=devvyyxyz&hide_border=true&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6)
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&hide_border=true&layout=compact&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6&hide_border=true/)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&hide_border=true&layout=compact&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devvyyxyz)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div align="center">
