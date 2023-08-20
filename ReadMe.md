@@ -24,40 +24,12 @@
 
 <!-- https://github.com/tandpfun/skill-icons -->
 
-<h3 align="center">Web development</h3>
+<h3 align="center">Web development & Languges & Tools</h3>
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,cloudflare,gcp,mongodb,bootstrap,wordpress&perline=3)](https://github.com/devvyyxyz)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,cloudflare,gcp,mongodb,bootstrap,wordpress&perline=3&theme=dark)](https://github.com/devvyyxyz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,java,php,lua,md&perline=3&theme=dark)](https://github.com/devvyyxyz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=ae,pr,xd,au,ps,ai,aws,gcp,blender,py,codepen,git,figma,firebase,godot,heroku,replit,linux,mongodb,unity,unreal,vscode&perline=8&theme=dark)](https://github.com/devvyyxyz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=bots&perline=3&theme=dark)](https://github.com/devvyyxyz)
   
 </div>
-
-
-<h3 align="center">Languges</h3>
-<div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,py,java,html,css,js,md&perline=5)](https://github.com/devvyyxyz)
-  
-</div>
-
-
-<details>
-  <summary align="center"><h3 align="center">Programs and tools</h3></summary>
-<div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,xd,pr,blender,visualstudio,godot,unity,unreal,idea,replit,figma,codepen,heroku,github,stackoverflow&perline=5)](https://github.com/devvyyxyz)
-  
-</div>
-</details>
-
-
-<details>
-  <summary align="center"><h3 align="center">Other</h3></summary>
-<div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=discord,bots,twitter,instagram)](https://github.com/devvyyxyz)
-  
-</div>
-</details>
 
 <br></br>
 
