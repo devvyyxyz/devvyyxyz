@@ -26,7 +26,7 @@
 <h3 align="center">Web development, Languges, Tools & Misc</h3>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,cloudflare,gcp,mongodb,bootstrap,wordpress&perline=3&theme=dark)](https://github.com/devvyyxyz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,java,php,lua,md&perline=3&theme=dark)](https://github.com/devvyyxyz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=ae,pr,xd,au,ps,ai,aws,gcp,blender,py,codepen,git,figma,firebase,godot,heroku,replit,linux,mongodb,unity,unreal,vscode&perline=3&theme=dark)](https://github.com/devvyyxyz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=bots&perline=3&theme=dark)](https://github.com/devvyyxyz)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,cloudflare,gcp,mongodb,bootstrap,wordpress&perline=3&theme=dark)](https://github.com/devvyyxyz)&nbsp;[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,java,php,lua,md&perline=3&theme=dark)](https://github.com/devvyyxyz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=ae,pr,xd,au,ps,ai,aws,gcp,blender,py,codepen,git,figma,firebase,godot,heroku,replit,linux,mongodb,unity,unreal,vscode&perline=3&theme=dark)](https://github.com/devvyyxyz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=bots&perline=3&theme=dark)](https://github.com/devvyyxyz)
   
 </div>
 
@@ -95,8 +95,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=devvyyxyz&hide_border=true&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6)
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&hide_border=true&layout=compact&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devvyyxyz)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div align="center">
