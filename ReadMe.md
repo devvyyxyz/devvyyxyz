@@ -23,11 +23,20 @@
 
 <!-- https://github.com/tandpfun/skill-icons -->
 
-<h3 align="center">Web development, Languges, Tools & Misc</h3>
+<h3 align="center">My favs</h3>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,cloudflare,gcp,mongodb,bootstrap,wordpress&perline=3&theme=dark)](https://github.com/devvyyxyz)&nbsp;[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,java,php,lua,md&perline=3&theme=dark)](https://github.com/devvyyxyz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=ae,pr,xd,au,ps,ai,aws,gcp,blender,py,codepen,git,figma,firebase,godot,heroku,replit,linux,mongodb,unity,unreal,vscode&perline=3&theme=dark)](https://github.com/devvyyxyz)&nbsp;[![My Skills](https://skillicons.dev/icons?i=bots&perline=3&theme=dark)](https://github.com/devvyyxyz)
+[![My Skills](https://skillicons.dev/icons?i=js,html,nodejs,cpp,linux,unreal,vscode&theme=dark)](https://github.com/devvyyxyz)
+
+<h3 align="center">Most skilled</h3>
+<div align="center">
   
+[![My Skills](https://skillicons.dev/icons?i=bash,html,unreal,py,md,discord&theme=dark)](https://github.com/devvyyxyz)
+
+<h3 align="center">All</h3>
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=ae,pr,xd,au,ps,ai,aws,gcp,blender,py,codepen,git,figma,firebase,godot,heroku,replit,linux,mongodb,unity,unreal,vscode,bash,java,php,lua,md,js,html,css,nodejs,cloudflare,mongodb,apple,blender,cpp,cs,discord,rider,&theme=dark)](https://github.com/devvyyxyz)
 </div>
 
 <br></br>
