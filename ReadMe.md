@@ -1,4 +1,4 @@
-<img align="left" width="250" height="auto" src="https://avatars.githubusercontent.com/u/132696257?v=4">
+<img align="left" width="250" height="auto" src="https://avatars.githubusercontent.com/u/132696257">
 
 ### Hey I'm Devvyyxyz
 
