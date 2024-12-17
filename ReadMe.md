@@ -8,6 +8,7 @@ Hey, Bonjour, 你好 i’m Devvyy, A software and cyber security developer! Welc
 
 <br>
 <br>
+<br>
 
 ## My Favorite Technologies
 
@@ -33,9 +34,9 @@ Feel free to explore my projects on [GitHub](https://github.com/devvyyxyz) and d
 
 ## My favourite GitHub repositories
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=noodle-bot&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true&show_owner=true)
-![](https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=modrinth-text-packs&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true&show_owner=true)
-
+![](https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=docs&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true&show_owner=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=bmd-action-maker&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true&show_owner=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=cellular-automata&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true&show_owner=true)
 
 ## Github Stats
   
