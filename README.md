@@ -65,7 +65,7 @@ devvyyxyz
 <span style="color:#8b949e;">Collecting achievements...</span>
 </pre>
 
-<img src="https://github-profile-trophy.vercel.app/?username=devvyyxyz&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=devvyyxyz&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7&cache_seconds=86400&v=2" />
 
 <pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
 
