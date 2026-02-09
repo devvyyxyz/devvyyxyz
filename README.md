@@ -47,9 +47,9 @@ devvyyxyz
 <font color="#8b949e">Rendering stats cards...</font>
 </pre>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devvyyxyz&show_icons=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devvyyxyz&show_icons=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" border="0" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" border="0" />
 
 <pre>
 
@@ -57,15 +57,7 @@ devvyyxyz
 <font color="#8b949e">Analyzing contribution streak...</font>
 </pre>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&theme=dark&hide_border=true&background=0D1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=00ff00&dates=00ff00&sideNums=00ff00&stroke=00ff00" />
-
-<pre>
-
-<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">./commands/achievements</font>
-<font color="#8b949e">Rendering achievements summary...</font>
-</pre>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devvyyxyz&show_icons=true&custom_title=Achievements&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&theme=dark&hide_border=true&background=0D1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=00ff00&dates=00ff00&sideNums=00ff00&stroke=00ff00" border="0" />
 
 <pre>
 
@@ -73,7 +65,7 @@ devvyyxyz
 <font color="#8b949e">Building contribution graph...</font>
 </pre>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devvyyxyz&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=0d1117&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devvyyxyz&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=0d1117&hide_border=true" border="0" />
 
 <pre>
 
@@ -81,9 +73,9 @@ devvyyxyz
 <font color="#8b949e">Loading pinned repositories...</font>
 </pre>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devvyyxyz&repo=docs&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devvyyxyz&repo=bmd-action-maker&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devvyyxyz&repo=cellular-automata&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devvyyxyz&repo=docs&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" border="0" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devvyyxyz&repo=bmd-action-maker&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" border="0" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devvyyxyz&repo=cellular-automata&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" border="0" />
 
 <pre>
 
@@ -91,7 +83,7 @@ devvyyxyz
 <font color="#8b949e">sessions connected:</font>
 </pre>
 
-<img src="https://komarev.com/ghpvc/?username=devvyyxyz&label=&color=00ff00&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=devvyyxyz&label=&color=00ff00&style=flat" border="0" />
 
 <pre>
 
