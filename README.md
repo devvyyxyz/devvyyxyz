@@ -41,19 +41,49 @@ devvyyxyz
 <span style="color:#8b949e;">Fetching GitHub statistics...</span>
 </pre>
 
-<img src="https://github-readme-stats.vercel.app/api?username=devvyyxyz&show_icons=true&theme=github_dark&hide_border=true" />
+<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&theme=github_dark&hide_border=true" />
+<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">./commands/github-stats</span>
+<span style="color:#8b949e;">Rendering stats cards...</span>
+</pre>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&theme=github-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=devvyyxyz&show_icons=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
+
+<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
+
+<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">./commands/streak</span>
+<span style="color:#8b949e;">Analyzing contribution streak...</span>
+</pre>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&theme=dark&hide_border=false&background=0D1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=00ff00&dates=00ff00&sideNums=00ff00&stroke=00ff00&border=00ff00" />
+
+<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
+
+<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">./commands/trophies</span>
+<span style="color:#8b949e;">Collecting achievements...</span>
+</pre>
 
 <img src="https://github-profile-trophy.vercel.app/?username=devvyyxyz&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devvyyxyz&custom_title=Contribution%20Graph&bg_color=0d1117&color=8b949e&line=58a6ff&point=f2cc60&area=true&hide_border=true" />
+<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=docs&theme=github_dark&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=bmd-action-maker&theme=github_dark&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=cellular-automata&theme=github_dark&hide_border=true" />
+<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">./commands/activity</span>
+<span style="color:#8b949e;">Building contribution graph...</span>
+</pre>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devvyyxyz&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=0d1117&hide_border=true" />
+
+<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
+
+<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">./commands/pins</span>
+<span style="color:#8b949e;">Loading pinned repositories...</span>
+</pre>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=docs&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=bmd-action-maker&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=cellular-automata&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
 
 <pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
 
@@ -61,7 +91,7 @@ devvyyxyz
 <span style="color:#8b949e;">sessions connected:</span>
 </pre>
 
-<img src="https://komarev.com/ghpvc/?username=devvyyxyz&label=&color=2f81f7&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=devvyyxyz&label=&color=00ff00&style=flat" />
 
 <pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
 
