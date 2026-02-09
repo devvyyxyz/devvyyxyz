@@ -47,9 +47,9 @@ devvyyxyz
 <font color="#8b949e">Rendering stats cards...</font>
 </pre>
 
-<img src="https://github-readme-stats.vercel.app/api?username=devvyyxyz&show_icons=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devvyyxyz&show_icons=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" />
 
 <pre>
 
@@ -57,7 +57,7 @@ devvyyxyz
 <font color="#8b949e">Analyzing contribution streak...</font>
 </pre>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&theme=dark&hide_border=false&background=0D1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=00ff00&dates=00ff00&sideNums=00ff00&stroke=00ff00&border=00ff00" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&theme=dark&hide_border=true&background=0D1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=00ff00&dates=00ff00&sideNums=00ff00&stroke=00ff00" />
 
 <pre>
 
@@ -81,9 +81,9 @@ devvyyxyz
 <font color="#8b949e">Loading pinned repositories...</font>
 </pre>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devvyyxyz&repo=docs&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devvyyxyz&repo=bmd-action-maker&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devvyyxyz&repo=cellular-automata&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devvyyxyz&repo=docs&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devvyyxyz&repo=bmd-action-maker&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devvyyxyz&repo=cellular-automata&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" />
 
 <pre>
 
