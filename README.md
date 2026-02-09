@@ -1,12 +1,4 @@
-<div style="
-  background:#0d1117;
-  color:#c9d1d9;
-  font-family: monospace;
-  font-size: 14px;
-  line-height: 1.4;
-  padding: 12px;
-  white-space: pre;
-">
+<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
 
 <span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">whoami</span>
 devvyyxyz
@@ -34,16 +26,23 @@ devvyyxyz
 
 <span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">./commands/stats</span>
 <span style="color:#8b949e;">Fetching GitHub statistics...</span>
+</pre>
 
 <img src="https://github-readme-stats.vercel.app/api?username=devvyyxyz&show_icons=true&theme=github_dark&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&theme=github_dark&hide_border=true" />
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">uptime</span>
+<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
+
+<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ uptime
 <span style="color:#8b949e;">sessions connected:</span>
+</pre>
+
 <img src="https://komarev.com/ghpvc/?username=devvyyxyz&label=&color=2f81f7&style=flat" />
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">logout</span>
+<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
+
+<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ logout
 <span style="color:#8b949e;">Connection closed.</span>
 
-</div>
+</pre>
