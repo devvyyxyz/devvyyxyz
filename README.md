@@ -55,9 +55,11 @@ Fetching GitHub statistics...
 Rendering stats cards...
 ```
 
+<div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devvyyxyz&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" border="0" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" border="0" />
+</div>
 
 ```
 ┌──(devvyyxyz@github)-[~]
@@ -65,7 +67,9 @@ Rendering stats cards...
 Analyzing contribution streak...
 ```
 
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&theme=dark&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&stroke=ffffff" border="0" />
+</div>
 
 ```
 ┌──(devvyyxyz@github)-[~]
@@ -73,7 +77,9 @@ Analyzing contribution streak...
 Building contribution graph...
 ```
 
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devvyyxyz&custom_title=Contribution%20Graph&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=0d1117&hide_border=true" border="0" />
+</div>
 
 ```
 ┌──(devvyyxyz@github)-[~]
@@ -81,9 +87,11 @@ Building contribution graph...
 Loading pinned repositories...
 ```
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devvyyxyz&repo=docs&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" border="0" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devvyyxyz&repo=bmd-action-maker&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" border="0" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devvyyxyz&repo=cellular-automata&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" border="0" />
+<div align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devvyyxyz&repo=wasteland-editor&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" border="0" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devvyyxyz&repo=abc-site&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" border="0" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devvyyxyz&repo=tools-list&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" border="0" />
+</div>
 
 ```
 ┌──(devvyyxyz@github)-[~]
@@ -95,7 +103,9 @@ RUNTIME     : ∞ hours (perpetual)
 STATUS      : ● ONLINE
 ────────────────────────────────────────────────────────────────────────────
 ```
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=devvyyxyz&label=visitors&color=ffffff&style=flat-square" border="0" />
+</div>
 
 ```
 ┌──(devvyyxyz@github)-[~]
