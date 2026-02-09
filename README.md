@@ -61,11 +61,11 @@ devvyyxyz
 
 <pre>
 
-<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">./commands/trophies</font>
-<font color="#8b949e">Collecting achievements...</font>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">./commands/achievements</font>
+<font color="#8b949e">Rendering achievements summary...</font>
 </pre>
 
-<img src="https://github-profile-trophy.vercel.app/?username=devvyyxyz&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7&cache_seconds=86400&v=3" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devvyyxyz&show_icons=true&custom_title=Achievements&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" />
 
 <pre>
 
