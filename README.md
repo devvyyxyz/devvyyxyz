@@ -1,47 +1,49 @@
-<img align="left" width="250" height="auto" src="https://avatars.githubusercontent.com/u/132696257">
+<div style="
+  background:#0d1117;
+  color:#c9d1d9;
+  font-family: monospace;
+  font-size: 14px;
+  line-height: 1.4;
+  padding: 12px;
+  white-space: pre;
+">
 
-### Hey I'm Devvyyxyz
+<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">whoami</span>
+devvyyxyz
 
-Hey, Bonjour, 你好 i’m Devvyy, A software and cyber security developer! Welcome to my tech stack page! Here’s a list of tools and technologies I use and love.
+<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">uname -a</span>
+<span style="color:#8b949e;">HumanOS x86_64 /dev/creativity shell=bash</span>
 
-[![](https://komarev.com/ghpvc/?username=devvyyxyz&color=007bff&label=Profile+Views&style=for-the-badge)]()
+<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">cat profile.txt</span>
+────────────────────────────────────────────────────────────────────────────
+<span style="color:#f2cc60;">USER</span>        : Devvyyxyz (Kai)
+<span style="color:#f2cc60;">ROLE</span>        : Software & Cyber Security Developer
+<span style="color:#f2cc60;">WEBSITE</span>     : <a href="https://devvyy.xyz" style="color:#7ee787; text-decoration:none;">https://devvyy.xyz</a>
+<span style="color:#f2cc60;">BLOG</span>        : <a href="https://blog.devvyy.xyz" style="color:#7ee787; text-decoration:none;">https://blog.devvyy.xyz</a>
+────────────────────────────────────────────────────────────────────────────
 
-<br>
-<br>
-<br>
+<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">cat session.status</span>
+<span style="color:#f2cc60;">WORKING_ON</span>  : Developer tools, creative utilities
+<span style="color:#f2cc60;">LEARNING</span>    : Advanced JavaScript, UI architecture
+<span style="color:#f2cc60;">FOCUS</span>       : Modular, readable, reusable systems
+<span style="color:#f2cc60;">UPTIME</span>      : ∞
 
-## My Favorite Technologies
+<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">ls commands/</span>
+<span style="color:#7ee787;">help</span>        <span style="color:#7ee787;">projects</span>     <span style="color:#7ee787;">github</span>      <span style="color:#7ee787;">website</span>
+<span style="color:#7ee787;">blog</span>        <span style="color:#7ee787;">contact</span>      <span style="color:#7ee787;">stats</span>
 
-These are the tools I use most often and enjoy working with:
+<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">./commands/stats</span>
+<span style="color:#8b949e;">Fetching GitHub statistics...</span>
 
-![](https://skillicons.dev/icons?i=js,html,nodejs,cpp,linux,unreal,vscode&theme=dark)![]()
+<img src="https://github-readme-stats.vercel.app/api?username=devvyyxyz&show_icons=true&theme=github_dark&hide_border=true" />
 
-## Most Skilled Technologies
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&theme=github_dark&hide_border=true" />
 
-I’m most skilled in these technologies and use them extensively in my projects:
+<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">uptime</span>
+<span style="color:#8b949e;">sessions connected:</span>
+<img src="https://komarev.com/ghpvc/?username=devvyyxyz&label=&color=2f81f7&style=flat" />
 
-![](https://skillicons.dev/icons?i=bash,html,unreal,py,md,discord&theme=dark)![]()
+<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">logout</span>
+<span style="color:#8b949e;">Connection closed.</span>
 
-## All Technologies
-
-Here’s the full list of technologies I’ve worked with over the years. It’s quite a diverse stack!
-
-![](https://skillicons.dev/icons?i=ae,pr,xd,au,ps,ai,aws,gcp,blender,py,codepen,git,figma,firebase,godot,heroku,replit,linux,mongodb,unity,unreal,vscode,bash,java,php,lua,md,js,html,css,nodejs,cloudflare,mongodb,apple,blender,cpp,cs,discord,rider,&theme=dark)![]()
-
-## Learn More
-
-Feel free to explore my projects on [GitHub](https://github.com/devvyyxyz) and dive deeper into the technologies I work with.
-
-## My favourite GitHub repositories
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=docs&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true&show_owner=true)
-![](https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=bmd-action-maker&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true&show_owner=true)
-![](https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=cellular-automata&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true&show_owner=true)
-
-## Github Stats
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=006BD6&ring=006BD6&stroke=FFFFFFFF)
-  
-![](https://github-readme-stats.vercel.app/api?username=devvyyxyz&hide_border=true&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6)
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&hide_border=true&layout=compact&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6)
+</div>
