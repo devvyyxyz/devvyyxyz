@@ -65,7 +65,7 @@ devvyyxyz
 <span style="color:#8b949e;">Collecting achievements...</span>
 </pre>
 
-<img src="https://github-profile-trophy.vercel.app/?username=devvyyxyz&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7&cache_seconds=86400&v=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=devvyyxyz&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7&cache_seconds=86400&v=3" />
 
 <pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
 
@@ -81,9 +81,9 @@ devvyyxyz
 <span style="color:#8b949e;">Loading pinned repositories...</span>
 </pre>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=docs&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=bmd-action-maker&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devvyyxyz&repo=cellular-automata&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devvyyxyz&repo=docs&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devvyyxyz&repo=bmd-action-maker&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devvyyxyz&repo=cellular-automata&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
 
 <pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
 
