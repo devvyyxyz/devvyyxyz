@@ -1,101 +1,101 @@
-<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
+<pre>
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">whoami</span>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">whoami</font>
 devvyyxyz
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">uname -a</span>
-<span style="color:#8b949e;">HumanOS x86_64 /dev/creativity shell=bash</span>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">uname -a</font>
+<font color="#8b949e">HumanOS x86_64 /dev/creativity shell=bash</font>
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">cat system.info</span>
-<span style="color:#f2cc60;">OS</span>          : <span style="color:#8b949e;">Linux (rolling)</span>
-<span style="color:#f2cc60;">SHELL</span>       : <span style="color:#8b949e;">bash</span>
-<span style="color:#f2cc60;">EDITOR</span>      : <span style="color:#8b949e;">VS Code</span>
-<span style="color:#f2cc60;">TIMEZONE</span>    : <span style="color:#8b949e;">UTC</span>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">cat system.info</font>
+<font color="#f2cc60">OS</font>          : <font color="#8b949e">Linux (rolling)</font>
+<font color="#f2cc60">SHELL</font>       : <font color="#8b949e">bash</font>
+<font color="#f2cc60">EDITOR</font>      : <font color="#8b949e">VS Code</font>
+<font color="#f2cc60">TIMEZONE</font>    : <font color="#8b949e">UTC</font>
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">cat certs.badges</span>
-<span style="color:#f2cc60;">CERTS</span>       : <span style="color:#8b949e;">Security+ (in-progress)</span>
-<span style="color:#f2cc60;">BADGES</span>      : <span style="color:#8b949e;">TryHackMe, Hack The Box (active)</span>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">cat certs.badges</font>
+<font color="#f2cc60">CERTS</font>       : <font color="#8b949e">Security+ (in-progress)</font>
+<font color="#f2cc60">BADGES</font>      : <font color="#8b949e">TryHackMe, Hack The Box (active)</font>
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">cat profile.txt</span>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">cat profile.txt</font>
 ────────────────────────────────────────────────────────────────────────────
-<span style="color:#f2cc60;">USER</span>        : Devvyyxyz (Kai)
-<span style="color:#f2cc60;">ROLE</span>        : Software & Cyber Security Developer
-<span style="color:#f2cc60;">WEBSITE</span>     : <a href="https://devvyy.xyz" style="color:#7ee787; text-decoration:none;">https://devvyy.xyz</a>
-<span style="color:#f2cc60;">BLOG</span>        : <a href="https://blog.devvyy.xyz" style="color:#7ee787; text-decoration:none;">https://blog.devvyy.xyz</a>
+<font color="#f2cc60">USER</font>        : Devvyyxyz (Kai)
+<font color="#f2cc60">ROLE</font>        : Software & Cyber Security Developer
+<font color="#f2cc60">WEBSITE</font>     : <a href="https://devvyy.xyz">https://devvyy.xyz</a>
+<font color="#f2cc60">BLOG</font>        : <a href="https://blog.devvyy.xyz">https://blog.devvyy.xyz</a>
 ────────────────────────────────────────────────────────────────────────────
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">cat session.status</span>
-<span style="color:#f2cc60;">WORKING_ON</span>  : Developer tools, creative utilities
-<span style="color:#f2cc60;">LEARNING</span>    : Advanced JavaScript, UI architecture
-<span style="color:#f2cc60;">FOCUS</span>       : Modular, readable, reusable systems
-<span style="color:#f2cc60;">UPTIME</span>      : ∞
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">cat session.status</font>
+<font color="#f2cc60">WORKING_ON</font>  : Developer tools, creative utilities
+<font color="#f2cc60">LEARNING</font>    : Advanced JavaScript, UI architecture
+<font color="#f2cc60">FOCUS</font>       : Modular, readable, reusable systems
+<font color="#f2cc60">UPTIME</font>      : ∞
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">ls commands/</span>
-<span style="color:#7ee787;">help</span>        <span style="color:#7ee787;">projects</span>     <span style="color:#7ee787;">github</span>      <span style="color:#7ee787;">website</span>
-<span style="color:#7ee787;">blog</span>        <span style="color:#7ee787;">contact</span>      <span style="color:#7ee787;">stats</span>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">ls commands/</font>
+<font color="#7ee787">help</font>        <font color="#7ee787">projects</font>     <font color="#7ee787">github</font>      <font color="#7ee787">website</font>
+<font color="#7ee787">blog</font>        <font color="#7ee787">contact</font>      <font color="#7ee787">stats</font>
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">./commands/contact</span>
-<span style="color:#8b949e;">$ mail devvyyxyz@gmail.com</span>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">./commands/contact</font>
+<font color="#8b949e">$ mail devvyyxyz@gmail.com</font>
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">./commands/stats</span>
-<span style="color:#8b949e;">Fetching GitHub statistics...</span>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">./commands/stats</font>
+<font color="#8b949e">Fetching GitHub statistics...</font>
 </pre>
 
-<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
+<pre>
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">./commands/github-stats</span>
-<span style="color:#8b949e;">Rendering stats cards...</span>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">./commands/github-stats</font>
+<font color="#8b949e">Rendering stats cards...</font>
 </pre>
 
 <img src="https://github-readme-stats.vercel.app/api?username=devvyyxyz&show_icons=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvyyxyz&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
 
-<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
+<pre>
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">./commands/streak</span>
-<span style="color:#8b949e;">Analyzing contribution streak...</span>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">./commands/streak</font>
+<font color="#8b949e">Analyzing contribution streak...</font>
 </pre>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devvyyxyz&theme=dark&hide_border=false&background=0D1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=00ff00&dates=00ff00&sideNums=00ff00&stroke=00ff00&border=00ff00" />
 
-<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
+<pre>
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">./commands/trophies</span>
-<span style="color:#8b949e;">Collecting achievements...</span>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">./commands/trophies</font>
+<font color="#8b949e">Collecting achievements...</font>
 </pre>
 
 <img src="https://github-profile-trophy.vercel.app/?username=devvyyxyz&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7&cache_seconds=86400&v=3" />
 
-<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
+<pre>
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">./commands/activity</span>
-<span style="color:#8b949e;">Building contribution graph...</span>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">./commands/activity</font>
+<font color="#8b949e">Building contribution graph...</font>
 </pre>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devvyyxyz&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=0d1117&hide_border=true" />
 
-<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
+<pre>
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ <span style="color:#58a6ff;">./commands/pins</span>
-<span style="color:#8b949e;">Loading pinned repositories...</span>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">./commands/pins</font>
+<font color="#8b949e">Loading pinned repositories...</font>
 </pre>
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devvyyxyz&repo=docs&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devvyyxyz&repo=bmd-action-maker&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devvyyxyz&repo=cellular-automata&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" />
 
-<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
+<pre>
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ uptime
-<span style="color:#8b949e;">sessions connected:</span>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ uptime
+<font color="#8b949e">sessions connected:</font>
 </pre>
 
 <img src="https://komarev.com/ghpvc/?username=devvyyxyz&label=&color=00ff00&style=flat" />
 
-<pre style="background:#0d1117; color:#c9d1d9; padding:12px; font-family:monospace; font-size:14px; line-height:1.4;">
+<pre>
 
-<span style="color:#58a6ff;">devvyyxyz@github</span>:<span style="color:#7ee787;">~</span>$ logout
-<span style="color:#8b949e;">Connection closed.</span>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ logout
+<font color="#8b949e">Connection closed.</font>
 
 </pre>
