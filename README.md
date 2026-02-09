@@ -79,8 +79,14 @@ devvyyxyz
 
 <pre>
 
-<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ uptime
-<font color="#8b949e">sessions connected:</font>
+<font color="#58a6ff">devvyyxyz@github</font>:<font color="#7ee787">~</font>$ <font color="#58a6ff">uptime</font>
+<font color="#8b949e">System uptime and session statistics</font>
+────────────────────────────────────────────────────────────────────────────
+<font color="#f2cc60">LOAD_AVG</font>    : <font color="#00ff00">█████████████░░░░░░</font> <font color="#8b949e">(high activity)</font>
+<font color="#f2cc60">SESSIONS</font>    : <font color="#8b949e">connected visitors tracked below</font>
+<font color="#f2cc60">RUNTIME</font>     : <font color="#8b949e">∞ hours (perpetual)</font>
+<font color="#f2cc60">STATUS</font>      : <font color="#00ff00">● ONLINE</font>
+────────────────────────────────────────────────────────────────────────────
 </pre>
 
 <img src="https://komarev.com/ghpvc/?username=devvyyxyz&label=&color=00ff00&style=flat" border="0" />
